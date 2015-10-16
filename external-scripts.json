@@ -9,5 +9,7 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-troll"
+  "hubot-troll",
+  "hubot-roll",
+  "hubot-xkcd"
 ]
